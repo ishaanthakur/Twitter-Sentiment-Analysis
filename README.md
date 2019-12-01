@@ -1,6 +1,6 @@
 ## INSTALLATION
 
-Tweepy: tweepy is the python client for the official Twitter API.
+### Tweepy: tweepy is the python client for the official Twitter API.
 
 Install it using following pip command: 
 
