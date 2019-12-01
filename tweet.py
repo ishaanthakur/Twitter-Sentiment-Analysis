@@ -1,7 +1,11 @@
-import re 
-import tweepy 
+## Using tweepy and textblob
+
 from tweepy import OAuthHandler 
 from textblob import TextBlob 
+
+import re 
+import tweepy 
+
 
 class TwitterClient(object): 
 	''' 
