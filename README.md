@@ -2,18 +2,18 @@
 
 Tweepy: tweepy is the python client for the official Twitter API.
 
-*Install it using following pip command:
+Install it using following pip command: 
 
 ```
 pip install tweepy
 ```
 
-* Install Textblob using following pip command: 
+Install Textblob using following pip command: 
 
 ```
 pip install textblob
 ```
-* Also, install some NLTK corpora (bunch of texts) using following command: 
+Also, install some NLTK corpora (bunch of texts) using following command: 
 
 ```
 python -m textblob.download_corpora
