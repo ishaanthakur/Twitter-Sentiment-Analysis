@@ -1,6 +1,6 @@
 ## INSTALLATION
 
-### Tweepy: tweepy is the python client for the official Twitter API.
+### Tweepy is the python client for the official Twitter API.
 
 Install it using following pip command: 
 
@@ -23,7 +23,7 @@ python -m textblob.download_corpora
 
 For accessing tweets using Twitter API, register an App through their twitter account. 
 
-- Open this [link](https://apps.twitter.com/) and click the button: ‘Create New App’
+- Open this [ link ](https://apps.twitter.com/) and click button: ‘Create New App’
 - Fill the application details. You can leave the callback url field empty.
 - Once the app is created, you will be redirected to the app page.
 - Open the ‘Keys and Access Tokens’ tab.
