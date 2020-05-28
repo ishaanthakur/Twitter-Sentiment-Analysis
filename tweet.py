@@ -1,5 +1,7 @@
 ## Using tweepy and textblob
 
+## Updated library
+
 from tweepy import OAuthHandler 
 from textblob import TextBlob 
 
